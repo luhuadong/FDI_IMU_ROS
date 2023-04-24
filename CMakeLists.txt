@@ -48,7 +48,7 @@ endif()
 include_directories(
   include
   src
-  ${catkin_INCLUDE_DIRS}
+  ${rclcpp_INCLUDE_DIRS}
   ${Eigen3_INCLUDE_DIRS} 
 )
 
