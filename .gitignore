@@ -1,3 +1,11 @@
+# IDE
+.vscode
+
+# ROS2 build
+build
+install
+log
+
 # Prerequisites
 *.d
 
